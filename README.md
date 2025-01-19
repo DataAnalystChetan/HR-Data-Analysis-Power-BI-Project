@@ -37,6 +37,10 @@ The dataset contains 1,470 rows and 41 columns, comprising employee demographic 
 This report presents an in-depth analysis of employee attrition in the organization, based on historical HR data. Attrition, or employee turnover, is a critical challenge that impacts organizational performance, employee morale, and overall business costs.
 
 
+
+An interactive Power BI dashboard can be found [here](https://github.com/DataAnalystChetan/HR-Data-Analysis-Power-BI-Project/blob/main/HR%20Dashboard.pbix).
+
+
 ![Dashboard Imaage](https://github.com/DataAnalystChetan/HR-Data-Analysis-Power-BI-Project/blob/main/HR%20Dashboard.jpg)
 
 ### **Key Findings**
